@@ -34,11 +34,10 @@ module.exports = {
 		interaction.channel.send({
 			content: szabalyzat5,
 		})
-        
+
 		interaction.channel.send({
 			content: szabalyzat6,
 		})
-
 	},
 }
 
